@@ -1,4 +1,4 @@
-Note:-Use my_server.java and my_client.java in seprate folder, so that you can check for newly received or uploded files.
+Note:-Use myserver.java and myclient.java in seprate folder, so that you can check for newly received or uploded files.
 
 Below java program was written in openjdk 11
 
